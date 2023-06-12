@@ -1,0 +1,10 @@
+* green-threads
+
+A lightweight thread / cooperative multitasking library for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/thezerobit/green-threads.git   |
+| commit  | fff5ebe  |
+| systems | green-threads |
+|---------+-------------------------------------------|
+
